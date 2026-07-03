@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ZoroSec
-- 👀 I’m interested in cyber security, networking , breaking the stuff, python and video games.
-- 🌱 I’m currently learning networking, cyber security and python.
-- 💞️ I’m looking to collaborate on python projects and hacking related stuff.
+- 👋 Hi, I’m @Harshit Siwal
 - 📫 How to reach me siwal.work@gmail.com
 
 <!---
